@@ -54,7 +54,7 @@ http://localhost:8501
 #### Запуск Docker:
 1) Клонируешь проект:
 
-    git clone https://github.com/youruser/yourproject.git
+    git clone https://github.com/DevNikitaZherebchikoff/Finance_recommendation_system.git
     
     cd yourproject
 
